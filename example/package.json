@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "diy_dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchoi9804/diy_dashboard.git"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "bchoi9804",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchoi9804/diy_dashboard/issues"
+  },
+  "homepage": "https://github.com/bchoi9804/diy_dashboard#readme"
+}
